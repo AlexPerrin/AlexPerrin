@@ -1,6 +1,6 @@
 ## Hey, I'm Alex 👋
 
-🇨🇦 I'm a Computer Engineer from Kingston, Ontario. 
+🇨🇦 I'm a Computer Engineer based out of Toronto.
 
 ❤️ I'm passionate about cybersecurity, privacy, and ethical hacking.
 
